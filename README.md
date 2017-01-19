@@ -1,6 +1,6 @@
 # archcapital.io
 
-The landing page for Arch Capital. We are a proud member group of Northwestern's Institute for Student Business Education (ISBE).
+The landing page for Arch Capital. We are a proud member of Northwestern's Institute for Student Business Education (ISBE).
 
 
 ## License
