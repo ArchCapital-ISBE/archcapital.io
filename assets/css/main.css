@@ -3819,7 +3819,7 @@
 		@media screen and (max-width: 1280px) {
 
 			#sidebar {
-				height: 3.5em;
+				height: 0;
 				left: 0;
 				line-height: 3.5em;
 				overflow: hidden;
