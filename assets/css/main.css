@@ -3373,6 +3373,12 @@
 			opacity: 0;
 		}
 
+/* Logo */
+	#logo {
+		width: auto;
+		height: 2em;
+	}
+
 /* Header */
 
 	#header {
@@ -3382,7 +3388,7 @@
 		display: flex;
 		background-color: #5e42a6;
 		cursor: default;
-		padding: 1.75em 2em;
+		padding: 1.75em 2em 1.25em 2em;
 	}
 
 		#header > .title {
@@ -3482,7 +3488,7 @@
 
 			#sidebar + #wrapper {
 				margin-left: 0;
-				padding-top: 3.5em;
+				// padding-top: 3.5em;
 			}
 
 		}
@@ -3821,6 +3827,7 @@
 				text-align: center;
 				top: 0;
 				width: 100%;
+				display: none;
 			}
 
 				#sidebar > .inner {
